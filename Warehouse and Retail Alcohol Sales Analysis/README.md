@@ -10,4 +10,8 @@ Future work would include getting more recent data, retrieving data from every m
 
 This methodology is adaptable beyond the alcohol industry and open the door for broader inventory optimization and supplier strategy analysis. 
 
-Video demonstration showcasing the workbook/dashboard can be found **[Here](https://www.youtube.com/watch?v=C7ahBEPLGeU)**
+Video demonstration showcasing the workbook/dashboard can be found **[Here](https://www.youtube.com/watch?v=C7ahBEPLGeU)**.
+
+
+## Main Skill Used
+* Excel
